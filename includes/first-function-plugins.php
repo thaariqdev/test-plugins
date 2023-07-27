@@ -7,7 +7,7 @@ function test_plugin_setup_menu(){
 }
  
 function test_init(){
-    echo "<h1>Halo Dunia!</h1>";
+    echo "<h1>Halo Dunia! V1.0.0</h1>";
     echo "<p>Ini adalah plugin WordPress pertama saya yang dibuat menggunakan bahasa pemrograman PHP</p>";
 }
   

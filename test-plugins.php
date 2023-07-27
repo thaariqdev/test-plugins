@@ -3,7 +3,7 @@
     Plugin Name: Test Plugins
     Description: Ohaiyo sekai
     Author: Thaariq Prasetia
-    Version: 0.0.1
+    Version: v1.0.0
     Update URI: https://github.com/thaariqdev/test-plugin/
 
 */
